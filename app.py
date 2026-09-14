@@ -1,7 +1,7 @@
 import os
 
 # The key that lets the bot talk to the AI model.
-API_KEY = os.environ.get("API_KEY")
+API_KEY = "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"
 
 
 def ask(question):
